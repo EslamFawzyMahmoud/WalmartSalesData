@@ -6,8 +6,8 @@ I used SQL server mangement to write queries statements and import a Fat file (C
 I write query to answer ome business question such as:-
 
 
---Q1) How many unique cities does the data have?
---Q2) In which city in each Branch?
+.Q1) How many unique cities does the data have?
+.Q2) In which city in each Branch?
 Q3) How many unique product line?
 Q4) What is the most common payment method?
 Q5) what is the city with the mst revenue?
